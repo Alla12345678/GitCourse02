@@ -271,3 +271,53 @@
   271  git push
   272  clear
   273  history > history
+  274  ls
+  275  cat history 
+  276  clear
+  277  git status
+  278  git add .
+  279  git status
+  280  git push
+  281  git commit "Added file history"
+  282  git commit -m "Added file history"
+  283  git status
+  284  git push
+  285  clear
+  286  git push
+  287  git branch
+  288  cat history
+  289  clear
+  290  git status
+  291  git push origin main
+  292  ping github.com
+  293  ifconfig
+  294  sudo apt install net-tools
+  295  ifconfig
+  296  clear
+  297  cd
+  298  pwd
+  299  ls .ssh
+  300  cd ~
+  301  pwd
+  302  ssh-keygen -t rsa -b 4096
+  303  echo ssh-keygen -t rsa -b 4096 > keygen
+  304  ls
+  305  ll .ssh
+  306  cat id_rsa
+  307  pwd
+  308  cd~/.ssh
+  309  ll
+  310  cd .ssh
+  311  cat id_rsa.pub
+  312  cd
+  313  pwd
+  314  cd Documents/
+  315  ls
+  316  cd GitCourse02/
+  317  ls
+  318  ssh -T git@github.com
+  319  ls ~/.ssh
+  320  cat ~/ .ssh/known_hosts
+  321  cat ~/.ssh/known_hosts
+  322  git config remote.origin.url git@github.com:Alla12345678/GitCourse02.git
+  323  history > history
