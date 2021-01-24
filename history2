@@ -321,3 +321,22 @@
   321  cat ~/.ssh/known_hosts
   322  git config remote.origin.url git@github.com:Alla12345678/GitCourse02.git
   323  history > history
+  324  ls
+  325  git status
+  326  git add .
+  327  git commit -m "Updated history"
+  328  git push origin main
+  329  echo new file > new file
+  330  git commit -m "Added New Fail"
+  331  git status
+  332  git commit "Added New New File"
+  333  git commit -m "Added New New File"
+  334  git status
+  335  git push
+  336  git status
+  337  git add .
+  338  git status
+  339  git commit -m "New file added again"
+  340  git push
+  341  histiry > history2
+  342  history > history2
